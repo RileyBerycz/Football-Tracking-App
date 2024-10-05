@@ -1,0 +1,8 @@
+torch
+Pillow
+torchvision
+opencv-python
+tkinter
+screeninfo
+numpy
+mss
