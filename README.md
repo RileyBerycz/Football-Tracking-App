@@ -51,6 +51,8 @@ Test Video to try:
 Download the models here:
 ``
 
+Please note that since this uses CUDA to be effective you will need a GPU to use this software
+
 If something seems like it isn't working if you ran the file in a terminal you will see a process execution times if debug is enabled that verify it is indeed working
 
 Enjoy!
