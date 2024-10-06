@@ -7,6 +7,23 @@ A pretrained object detection model for football
 - [Installation](#installation)
 - [Usage](#usage)
 
+## Important 
+Please note that since this uses CUDA to be effective you will need a GPU to use this software
+
+Links for the models and a test video are below.
+Download the models here:
+`https://drive.google.com/file/d/1AX-SN5RLKl49oKFfHasn--4vYJqPsLzs/view?usp=sharing`
+
+If you don't have a powerful GPU I'd use the My_data model as the other two models are larger and will take more
+GPU memory, all of the models performance are relatively similar.
+
+Test Video to try:
+`https://drive.google.com/file/d/1ulUs3AH1-XsuDJuqt4mdyFrVoTr3Kifl/view?usp=sharing`
+
+Any .mp4 video will work and the models will try look for a football even if one is present
+stating their confidence of the object highlighted being a football.
+
+
 
 ## Installation
 
@@ -46,14 +63,9 @@ Make sure you select one of the avaliable model files before use!
 
 **Export Annotated Video** This may take a while but it while eventually export a video with all the annotations attached.
 
-Test Video to try:
-`https://drive.google.com/file/d/1ulUs3AH1-XsuDJuqt4mdyFrVoTr3Kifl/view?usp=sharing`
-Download the models here:
-`https://drive.google.com/file/d/1AX-SN5RLKl49oKFfHasn--4vYJqPsLzs/view?usp=sharing`
-
-Please note that since this uses CUDA to be effective you will need a GPU to use this software
-
 If something seems like it isn't working if you ran the file in a terminal you will see a process execution times if debug is enabled that verify it is indeed working
+
+Please note this was made for testing purposes for a research report and may not work as is no longer being worked on.
 
 Enjoy!
 
