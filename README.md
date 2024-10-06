@@ -47,9 +47,9 @@ Make sure you select one of the avaliable model files before use!
 **Export Annotated Video** This may take a while but it while eventually export a video with all the annotations attached.
 
 Test Video to try:
-`https://drive.google.com/file/d/1ulUs3AH1-XsuDJuqt4mdyFrVoTr3Kifl/view?usp=drive_link`
+`https://drive.google.com/file/d/1ulUs3AH1-XsuDJuqt4mdyFrVoTr3Kifl/view?usp=sharing`
 Download the models here:
-``
+`https://drive.google.com/file/d/1AX-SN5RLKl49oKFfHasn--4vYJqPsLzs/view?usp=sharing`
 
 Please note that since this uses CUDA to be effective you will need a GPU to use this software
 
